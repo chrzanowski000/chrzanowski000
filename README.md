@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chrzanowski000, Michał Chrzanowski
 - 👀 I’m interested in Physics, Data Science, AI, ML
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on anything interesting
+- 🌱 I’m currently learning GANs
+- 💞️ I’m looking to collaborate on GANs
 - 📫 How to reach me: chrzanowski000@gmail.com
 
 <!---
