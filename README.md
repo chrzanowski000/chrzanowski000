@@ -13,7 +13,7 @@ Experienced with **PyTorch, RAG pipelines, LangGraph/LangChain agents, and scala
 - Retrieval-Augmented Generation (RAG)
 - LLM orchestration with LangGraph
 - Computer vision and vision transformers
-- ML systems deployed with Docker and Kubernetes
+- AI/ML systems deployed with Docker and Kubernetes
 
 ---
 
